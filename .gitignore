@@ -1,0 +1,13 @@
+# Compiled tmp file
+tmp/
+
+# old file
+*_old
+
+# backup file
+*_backup
+
+
+Thumbs.db
+*.DS_Store
+
